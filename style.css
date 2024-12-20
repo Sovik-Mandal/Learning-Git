@@ -7,12 +7,27 @@ main {
     background-color: black;
     color: white;
     padding: 34px;
+    margin: 0px;
 }
 
-.text-box {
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.text-box1 {
     padding: 34px;
     border: 2px solid white;
-    margin: 50px 34vw;
+    margin: 50px 8vw;
+    font-size: 2em;
+    border-radius: 13px;
+
+}
+
+.text-box2 {
+    padding: 34px;
+    border: 2px solid white;
+    margin: 50px 8vw;
     font-size: 2em;
     border-radius: 13px;
 
