@@ -25,3 +25,13 @@ nav {
     padding: 0 5px;
 }
 
+.orange-box {
+    height: 32px;
+    width: 32px;
+    background: orange;
+    position: fixed;
+    bottom: 12px;
+    right: 23px;
+    border-radius: 60px;
+}
+
