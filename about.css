@@ -12,3 +12,8 @@ nav {
     background-color: pink;
     height: 83px;
 }
+
+footer {
+    height: 100px;
+    background-color: bisque;
+}
