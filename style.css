@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    margin: 0px;
 }
 
 main {
@@ -15,5 +16,15 @@ main {
     font-size: 2em;
     border-radius: 13px;
 
+}
+
+header {
+    position: sticky;
+    top: 0;
+}
+
+nav {
+    background-color: pink;
+    height: 83px;
 }
 
