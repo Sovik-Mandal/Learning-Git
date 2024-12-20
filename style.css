@@ -67,3 +67,7 @@ nav {
     padding: 0 5px;
 }
 
+footer {
+    height: 100px;
+    background-color: bisque;
+}
